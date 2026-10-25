@@ -50,7 +50,7 @@
   ],
   "engines": {
     "node": ">=20.11.0",
-    "dsh": "0.2.1-rc.2"
+    "dsh": ">=0.2.1-rc.2"
   },
   "scripts": {
     "build": "node build.mjs",
